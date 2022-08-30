@@ -1,7 +1,13 @@
 public class MinhaClasse {
     
 public static void main(String[] args) {
-   System.out.print ("Olá pessoal, sejam bem vindos! "); 
+    String meuNome = "Thiago";
+
+    int anoFabricacao = 2022;
+
+    boolean verdadeira = true;
+
+
 }
 
 }
