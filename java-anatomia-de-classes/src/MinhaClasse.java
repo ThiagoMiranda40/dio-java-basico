@@ -10,7 +10,7 @@ public static void main(String[] args) {
 }
 
 public static String nomeCompleto (String primeiroNome, String segundoNome) {
-    return primeiroNome.concat(" ").concat(segundoNome);
+    return "Resultado do método:" + primeiroNome.concat(" ").concat(segundoNome);
 
 }
 
