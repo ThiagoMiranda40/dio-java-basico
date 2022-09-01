@@ -1,3 +1,5 @@
+Este projeto refere-se aos exercícios do "Curso 3 - Aprendendo a Sitaxe Java" intergando o "módulo 1 - Fundamentos da Plataforma Java", que é parte integrante da Formação profissional Java Developer da DIO - Digital Inovation One.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
