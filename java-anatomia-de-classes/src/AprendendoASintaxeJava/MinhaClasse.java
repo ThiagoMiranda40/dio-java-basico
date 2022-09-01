@@ -1,3 +1,5 @@
+// Acrescentando um comentário como teste de commit, para testar a sincronização com o GitHub.
+
 package AprendendoASintaxeJava;
 public class MinhaClasse {
     
